@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pushconnect.php conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-30 10:20+0000\n"
+"PO-Revision-Date: 2019-01-30 10:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: Unknown\n"
+"Language: zxx\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Loco-Parser: loco_parse_php\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+msgid "PushConnect Web push messaging"
+msgstr "PushConnect Web push messaging"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://pushconnect.tech"
+msgstr "http://pushconnect.tech"
+
+#. Description of the plugin
+msgid "Enable push messaging subscription using pushconnect.tech"
+msgstr "Enable push messaging subscription using pushconnect.tech"
+
+#. Author of the plugin
+msgid "PushConnect"
+msgstr "PushConnect"
+
+#: stdin:244
+msgid "Settings"
+msgstr "Settings"
+
+#: stdin:248
+msgid "pushconnect-web-push-messaging"
+msgstr "pushconnect-web-push-messaging"
+
+#: stdin:259
+msgid "Status"
+msgstr "Status"
+
+#: stdin:262 stdin:273
+msgid "--Please Select--"
+msgstr ""
+
+#: stdin:263 stdin:274
+msgid "Enabled"
+msgstr "Enabled"
+
+#: stdin:264 stdin:275
+msgid "Disabled"
+msgstr "Disabled"
+
+#: stdin:270
+msgid "Notify users of new posts"
+msgstr "Notify users of new posts"
+
+#: stdin:281
+msgid "API Key"
+msgstr "API Key"
+
+#: stdin:286
+msgid "Javascript Location"
+msgstr "Javascript Location"
